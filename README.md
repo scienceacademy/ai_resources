@@ -16,6 +16,7 @@ A collection of resources for teachers (and others) looking to learn more about 
 * [Science Daily](https://www.sciencedaily.com/news/computers_math/artificial_intelligence/) - AI news roundup
 * [Commonsense.org](https://www.commonsense.org/education/articles/free-resources-to-explore-and-use-chatgpt-and-ai) - educational AI resources
 * [Zvi Mowshowitz](https://thezvi.substack.com/) - Great AI news/science/culture roundup
+* [GPTs for Teachers](https://checkfu.com/) - (unknown quality, need to evaluate)
 
 ## Articles / Papers
 
