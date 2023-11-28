@@ -15,9 +15,11 @@ A collection of resources for teachers (and others) looking to learn more about 
 
 * [Science Daily](https://www.sciencedaily.com/news/computers_math/artificial_intelligence/) - AI news roundup
 * [Commonsense.org](https://www.commonsense.org/education/articles/free-resources-to-explore-and-use-chatgpt-and-ai) - educational AI resources
+* [Zvi Mowshowitz](https://thezvi.substack.com/) - Great AI news/science/culture roundup
 
 ## Articles / Papers
 
 * [ed.gov: Artificial Intelligence and the Future of Teaching and Learning](https://tech.ed.gov/ai-future-of-teaching-and-learning/)
 * [To Educate Students about AI, Make Them Use It](https://www.scientificamerican.com/article/to-educate-students-about-ai-make-them-use-it/) - practical experiences using ChatGPT in the classroom (good examples)
 * [On the Dangers of Stochastic Parrots](https://dl.acm.org/doi/10.1145/3442188.3445922) - seminal paper
+* [The Acronym Behind Our Wildest AI Dreams and Nightmares](https://www.truthdig.com/articles/the-acronym-behind-our-wildest-ai-dreams-and-nightmares/) - TESCREAL and what it means
