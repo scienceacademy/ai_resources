@@ -19,5 +19,5 @@ A collection of resources for teachers (and others) looking to learn more about 
 ## Articles / Papers
 
 * [ed.gov: Artificial Intelligence and the Future of Teaching and Learning](https://tech.ed.gov/ai-future-of-teaching-and-learning/)
-* [To Educate Students about AI, Make Them Use It](https://www.scientificamerican.com/article/to-educate-students-about-ai-make-them-use-it/)
+* [To Educate Students about AI, Make Them Use It](https://www.scientificamerican.com/article/to-educate-students-about-ai-make-them-use-it/) - practical experiences using ChatGPT in the classroom (good examples)
 * [On the Dangers of Stochastic Parrots](https://dl.acm.org/doi/10.1145/3442188.3445922) - seminal paper
