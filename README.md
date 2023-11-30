@@ -24,3 +24,4 @@ A collection of resources for teachers (and others) looking to learn more about 
 * [To Educate Students about AI, Make Them Use It](https://www.scientificamerican.com/article/to-educate-students-about-ai-make-them-use-it/) - practical experiences using ChatGPT in the classroom (good examples)
 * [On the Dangers of Stochastic Parrots](https://dl.acm.org/doi/10.1145/3442188.3445922) - seminal paper
 * [The Acronym Behind Our Wildest AI Dreams and Nightmares](https://www.truthdig.com/articles/the-acronym-behind-our-wildest-ai-dreams-and-nightmares/) - TESCREAL and what it means
+* [UK Report on Jobs Impact of AI](https://assets.publishing.service.gov.uk/media/656856b8cc1ec500138eef49/Gov.UK_Impact_of_AI_on_UK_Jobs_and_Training.pdf)
